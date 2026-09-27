@@ -296,14 +296,4 @@ DNS + CDN + SSL + Security
 * **UptimeRobot** → Uptime
 * **PostHog** → Analytics
 
----
-
-## 🔎 Full List
-
-The complete and continuously updated list is available here:
-
-**[Free-for-Dev](https://free-for.dev/)**
-
-**GitHub:** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-
 > Free tiers change frequently. This README is a quick developer reference, not a guarantee of current limits or availability.
